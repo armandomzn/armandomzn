@@ -10,9 +10,9 @@
 
 ---
 
-<h4>Tech Stack</h4>
+<h3>Tech Stack</h3>
 <section>
-<h5>Frontend Development</h5>
+<h4>Frontend Development</h4>
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -27,7 +27,7 @@
 </p>
 </section>
 <section>
-<h5>Backend Development</h5>
+<h4>Backend Development</h4>
 <p>
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
@@ -43,7 +43,7 @@
 </p>
 </section>
 <section>
-<h5>Tools & Technologies</h5>
+<h4>Tools & Technologies</h4>
 <p>
 <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />
 <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/>
@@ -59,7 +59,7 @@
 </p>
 </section>
 <section>
-<h5>Learning</h5>
+<h4>Learning</h4>
 <p>
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
 <img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
@@ -68,7 +68,7 @@
 </section>
 
 <section>
-<h5>Methodologies</h5>
+<h4>Methodologies</h4>
 <p>
 <img src="https://img.shields.io/badge/scrum-%2335495e.svg?style=for-the-badge&logo=scrum&logoColor=%234FC08D" />
 </p>
@@ -76,7 +76,7 @@
 
 ---
 
-<h4>GitHub Stats</h4>
+<h5>GitHub Stats</h5>
 
 ![](https://github-readme-stats.vercel.app/api?username=armandomzn&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=armandomzn&theme=dark&hide_border=false)<br/>
