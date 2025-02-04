@@ -4,7 +4,7 @@
 
 <div align="center">
 <h3>Hi 👋🏻, I'm Armando Mazón.</h3>
-  <p>I'm a passionate software engineer with experience in process automation and web application development. My main focus lies in creating robust and scalable solutions that solve real-world problems.</p>
+  <p>I'm an eager software engineer with experience in process automation and web application development. My main focus lies in creating robust and scalable solutions that solve real-world problems.</p>
  <a href="https://www.linkedin.com/in/armadomzn/" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
 </div>
 
